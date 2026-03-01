@@ -11,8 +11,6 @@ It automatically integrates [factorio-mod-updater](https://github.com/dreamdeniz
 It supports both **Linux** and **Windows** AMP instances.
 
 ## Installation
-
-### Method 1: Connecting via GitHub (Recommended)
 1. Open your AMP web interface and go to **Configuration -> Instance Deployment**.
 2. Scroll down to **Template Repositories** and click Add.
 3. Enter `dreamdenizen/amp-factorio-with-mod-updater:main`
